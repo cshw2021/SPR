@@ -2,13 +2,13 @@
 
 ## 🔗 Contents
 
-- [] [Datasets](#Datasets)
-- [] [Installation](#Installation) 
-- [] [Models](#Models)
-- [] [Train and Test](#TrainAndTest)
+- [ ] [Datasets](#Datasets)
+- [ ] [Installation](#Installation) 
+- [ ] [Models](#Models)
+- [ ] [Train and Test](#TrainAndTest)
 - [x] [Results](#Results)
-- [] [Citation](#Citation)
-- [] [Acknowledgements](#Acknowledgements)
+- [ ] [Citation](#Citation)
+- [ ] [Acknowledgements](#Acknowledgements)
 
 ## <a name='results'></a> 🔎 Results
 

@@ -14,7 +14,7 @@
 - [ ] [Train and Test](#TrainAndTest)
 - [x] [Results](#Results)
 - [ ] [Citation](#Citation)
-- [x] [Acknowledgements](#Acknowledgements)
+- [ ] [Acknowledgements](#Acknowledgements)
 
 ## <a name="datasets"></a>📊 Datasets
 Following [ResULIC](https://github.com/NJUVISION/ResULIC), we train the proposed SPRDiff on [LSDIR](https://ofsoundof.github.io/lsdir-data/) + [Flicker2W](https://github.com/liujiaheng/CompressionData) datasets and then evaluate it on the [Kodak](https://r0k.us/graphics/kodak/), [Tecnick](https://testimages.org), and [CLIC2020](https://clic2025.compression.cc/) datasets.

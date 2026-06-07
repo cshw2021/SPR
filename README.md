@@ -2,8 +2,11 @@
 
 [Hao Wei](https://scholar.google.com.hk/citations?user=hhNFVW0AAAAJ&hl=zh-CN), Yanhui Zhou, Chenyang Ge, [Saeed Anwar](https://scholar.google.com.hk/citations?user=vPJIHywAAAAJ&hl=zh-CN), [Ajmal Mian](https://scholar.google.com.hk/citations?user=X589yaIAAAAJ&hl=zh-CN).
 
+[![arXiv](https://img.shields.io/badge/Arxiv-2606.01608-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2606.01608)
+
 #### 🔥🔥🔥 News
 
+- **2026-06-07:** We have released the **Arxiv** version of the paper [here](https://arxiv.org/abs/2606.01608).
 - **2025-12-01:** This repo is released.
 
 ## 🔗 Contents
